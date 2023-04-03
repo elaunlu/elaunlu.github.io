@@ -4,10 +4,6 @@ title:  "Purple Cat"
 date:   2022-05-11 15:56:19 -0700
 # categories: jekyll update
 ---
-<div class="video-holder">
-  <iframe width="560"
-          height="315"
-          src="/assets/purple_cat.pdf"
-          frameborder="0"
-          allowfullscreen></iframe>
-</div>
+![Purple Cat](/assets/purple_cat.png){:style="display:block; margin-left:auto; margin-right:auto"}
+\
+You can [download pdf](/assets/purple_cat.pdf) here.
