@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Nature"
+date:   2023-05-21 15:56:19 -0700
+# categories: jekyll update
+---
+![Nature](/assets/nature.png){:style="display:block; margin-left:auto; margin-right:auto"}
+\
+You can [download pdf](/assets/nature.pdf) here.
